@@ -3,5 +3,10 @@ Download osint.industries results to an html file to be viewed later without was
 
 ## Installation
 ```
-1. git clone ttps://github.com/ByroBuff/OI-offline
-2. 
+1. git clone https://github.com/ByroBuff/OI-offline
+3. open 'chrome://extensions'
+4. toggle developer mode
+5. press load unpacked
+6. select the newly found 'OI-offline' folder
+7. Done
+```
