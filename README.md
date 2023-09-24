@@ -1,5 +1,5 @@
 # OI-offline
-Download osint.industries results to an html file to be viewed later without wasting credits
+Download [osint.industries](https://osint.industries) results to an html file to be viewed later without wasting credits
 
 ## Installation
 ```
@@ -8,5 +8,7 @@ Download osint.industries results to an html file to be viewed later without was
 4. toggle developer mode
 5. press load unpacked
 6. select the newly found 'OI-offline' folder
-7. Done
 ```
+
+## Usage
+Use [osint.industries](https://osint.industries) as normal but at the bottom there should be a 'save results to html' button which will download a file containing the results.
