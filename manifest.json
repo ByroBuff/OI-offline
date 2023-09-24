@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Selector Finder",
+    "name": "Osint Industries Offline",
     "version": "1.0",
-    "description": "A Chrome extension to find and print the selector.",
+    "description": "View and save osint.industries results offline",
     "permissions": [
         "scripting",
         "activeTab"
@@ -13,6 +13,11 @@
           "matches": ["https://osint.industries/email"],
           "js": ["content.js"]
         }
-      ]
+      ],
+      "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
   }
   
