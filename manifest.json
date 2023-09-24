@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Selector Finder",
+    "version": "1.0",
+    "description": "A Chrome extension to find and print the selector.",
+    "permissions": [
+        "scripting",
+        "activeTab"
+      ],
+      "action": {},
+      "content_scripts": [
+        {
+          "matches": ["https://osint.industries/email"],
+          "js": ["content.js"]
+        }
+      ]
+  }
+  
